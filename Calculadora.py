@@ -10,4 +10,4 @@ class Calculadora:
     def multiplicar (self, i1, i2):
         print (i1 * i2)
     def dividir (self, i1, i2):
-        int(print (i1 / i2))
+        print (i1 / i2)
